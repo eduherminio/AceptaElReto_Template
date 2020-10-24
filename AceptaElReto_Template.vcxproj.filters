@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="input.in" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="545.cpp">
+    <ClCompile Include="Sample_problem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sample_problem.in" />
   </ItemGroup>
 </Project>
